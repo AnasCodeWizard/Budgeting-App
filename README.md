@@ -1,1 +1,1 @@
-# budgetingapp.github.io
+# budgeting app
